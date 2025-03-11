@@ -1,5 +1,3 @@
-# .github
-Organization profile and community health files
 # The No Hands Company
 
 ## Building Tomorrow's Creative Tools

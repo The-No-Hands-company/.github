@@ -1,0 +1,7 @@
+{
+    "name": "The No Hands Company C++ CMake Workflow",
+    "description": "C++ CMake workflow template for building and testing C++ projects across multiple platforms.",
+    "iconName": "cpp-logo",
+    "categories": ["C++", "CMake"],
+    "filePatterns": ["**/CMakeLists.txt"]
+} 

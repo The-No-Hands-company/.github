@@ -1,0 +1,7 @@
+{
+    "name": "The No Hands Company Node.js Workflow",
+    "description": "Node.js workflow template for building and testing Node.js projects across multiple platforms.",
+    "iconName": "node-js",
+    "categories": ["JavaScript", "Node", "npm"],
+    "filePatterns": ["package.json"]
+} 
